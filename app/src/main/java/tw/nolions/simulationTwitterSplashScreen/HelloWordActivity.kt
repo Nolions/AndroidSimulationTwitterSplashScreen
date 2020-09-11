@@ -1,4 +1,4 @@
-package tw.nolions.motionlayout
+package tw.nolions.simulationTwitterSplashScreen
 
 import android.content.Context
 import android.content.Intent

@@ -1,4 +1,4 @@
-package tw.nolions.motionlayout
+package tw.nolions.simulationTwitterSplashScreen
 
 import android.app.Activity
 import android.os.Bundle
@@ -28,7 +28,6 @@ class MainActivity : AppCompatActivity() {
                 // 禁止其他Activity無法返回該Activity除了可以在AndroidManifest中將Activity的`noHistory`設為true外，也可以透握finish 函數來關掉該結束該Activity，
                 // finish()
             }
-
         })
     }
 
